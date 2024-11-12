@@ -2,9 +2,9 @@
 
 
 ## About
-This project is a study initiative aimed at developing a full clone of the TabNews website from scratch. The project is part of practical exercises from the curso.dev by Felipe Deschamps, the original creator of TabNews.
+This project is a study initiative aimed at developing a full clone of the TabNews website from scratch. The project is part of practical exercises from the curso.dev by [Felipe Deschamps](https://github.com/filipedeschamps), the original creator of TabNews.
 
-* Inspiring in the README format from LuizBarel, I'll include notes about the course classes. *
+* Inspiring in the README format from [LuizBarel](https://github.com/LuizBarel/clone-tabnews), I'll include notes about the course classes. *
 
 **Technologies:**
 - Next.js
