@@ -15,7 +15,7 @@ This project is a study initiative aimed at developing a full clone of the TabNe
 - files ending with "rc": contains "run commands" that are used to automate execution of specific commands within the project's scripts.
 - `.nvmrc`: this file specifies the Node.js version to be used in the project, set here to `lts/hydrogen`.
 - `lts`: stands for "long-term support"and indicates that this version will receive extended support and maintenance from the community.
-- `package.json`: a key file containing metadata about the project, including the author's details, licence information, project description, and a list of dependencies (such as libraries and modules required for the project).
+- `package.json`: a key file, known as a manifest file, containing metadata about the project, including the author's details, licence information, project description, and a list of dependencies (such as libraries and modules required for the project).
 - in the `pages` folder, each `.js` or `.ts` file is interpreted as a page because it represents a public route. For example: `index.js` ---> `site.com`;  `about.js` ---> `site.com/about`.
 - `export default Home` designates `Home` as the default function, allowing React to interpret `Home` as the `index` page.
 - running `npm run dev` in the terminal executes the `dev` script (`"dev": "next dev"`) defined in `package.json`.
